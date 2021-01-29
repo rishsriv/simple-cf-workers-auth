@@ -1,0 +1,10 @@
+name = "auth"
+type = "webpack"
+account_id = "YOUR_ACCOUNT_ID"
+workers_dev = true
+route = "fullstackdata.com/auth"
+zone_id = "YOUR_ZONE_ID"
+
+kv-namespaces = [
+  {binding = "USERS", id = "YOUR_KV_NAMESPACE_ID"}
+]
