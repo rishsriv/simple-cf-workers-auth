@@ -1,6 +1,6 @@
 /target
 /dist
-wranger.toml.backup
+wranger.toml
 **/*.rs.bk
 Cargo.lock
 bin/
